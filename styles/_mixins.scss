@@ -36,6 +36,6 @@
 }
 
 @mixin square($size) {
-    widows: $size;
+    width: $size;
     aspect-ratio: 1;
 }

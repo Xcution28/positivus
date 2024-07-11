@@ -1,2 +1,15 @@
-@import 'normalize', 'fonts', 'mixins', 'media', 'variables', 'utils', 'globals';
-@import './blocks/button', './blocks/header';
+@import
+    'normalize',
+    'fonts',
+    'mixins',
+    'media',
+    'variables',
+    'utils',
+    'globals';
+
+@import
+    './blocks/burger-button',
+    './blocks/button',
+    './blocks/header',
+    './blocks/cross-button',
+    './blocks/mobile-overlay';
